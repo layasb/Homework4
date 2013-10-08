@@ -47,7 +47,6 @@ aside
     width:226px;
     background-color:cyan;
     height:200px;
-    position:static;
     text-align:center;
 }
 footer
@@ -55,4 +54,8 @@ footer
     background-color:green;
     height:25px;
     text-align:center;
+}
+#top
+{
+    margin-top:8px;
 }
