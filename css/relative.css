@@ -46,14 +46,21 @@ aside
 {
     width:228px;
     background-color:cyan;
+    position:relative;
     height:180px;
     text-align:center;
+    left:452px;
+    top:-190px;
+    
+    
 }
 footer
 {
     background-color:green;
     height:25px;
     text-align:center;
+    position:relative;
+    top:-190px;
 }
 #top
 {

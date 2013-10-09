@@ -9,6 +9,7 @@ header
     height:30px;
     text-align:center;
     
+    
 }
 nav
 {
@@ -46,16 +47,24 @@ aside
 {
     width:228px;
     background-color:cyan;
-    height:180px;
+    height:190px;
     text-align:center;
+    float:right;
+    
+    
 }
 footer
 {
     background-color:green;
     height:25px;
     text-align:center;
+    clear:both;
 }
 #top
 {
     margin-top:8px;
+}
+article, section
+{
+    float:left;
 }
