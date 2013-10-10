@@ -1,0 +1,69 @@
+body
+{
+    width:680px;
+    margin:0 auto;
+}
+header
+{
+    background-color:blue;
+    height:30px;
+    text-align:center;
+    
+}
+nav
+{
+    background-color:green;
+    height:25px;
+}
+nav a
+{
+    display:inline;
+    margin-right:20px;
+}
+li
+{
+    display:inline;
+}
+article
+{
+    background-color:pink;
+    height:190px;
+    width:452px;
+    text-align:center;
+    padding:0;
+    
+}
+section
+{
+
+    background-color:red;
+    margin-bottom:10px;
+    height:70px;
+    width:452px;
+    padding:0;
+}
+aside
+{
+    background-color:cyan;
+    height:190px;
+    width:228px;
+    text-align:center;
+    padding:0;
+    margin-left:0;
+    
+    
+}
+footer
+{
+    background-color:green;
+    height:25px;
+    text-align:center;
+}
+#top
+{
+    margin-top:8px;
+}
+.container
+{
+    padding:0;
+}
