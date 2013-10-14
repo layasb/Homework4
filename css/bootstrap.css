@@ -28,9 +28,10 @@ article
 {
     background-color:pink;
     height:190px;
-    width:452px;
+    width:100%;
     text-align:center;
     padding:0;
+    margin-right:0;
     
 }
 section
@@ -39,7 +40,7 @@ section
     background-color:red;
     margin-bottom:10px;
     height:70px;
-    width:452px;
+    width:100%;
     padding:0;
 }
 aside
@@ -48,10 +49,18 @@ aside
     height:190px;
     width:228px;
     text-align:center;
-    padding:0;
     margin-left:0;
     
     
+}
+div.col-sm-8
+{
+    padding-right: 0px;
+    max-width: 467px;
+}
+div.col-sm-4
+{
+    padding-left: 0px;
 }
 footer
 {
